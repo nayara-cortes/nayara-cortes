@@ -8,10 +8,6 @@
 
 ### 💡 About Me
 
-- 🔭 I’m currently working on **HADA**, an intelligent internal platform for contact center employees
-- 🎯 I'm passionate about building useful, intuitive tools that improve people’s lives
-- 💬 I love blending logic, creativity and impact — tech that matters
-- ⚡ Fun fact: I’m also an illustrator and love climbing, games and nature
 
 ---
 
@@ -27,7 +23,6 @@
 
 ### 🚀 Currently Learning
 
-- React & component-based design
 - UI/UX best practices
 - Project architecture
 
@@ -37,8 +32,6 @@
 
 | Project     | Description                                                                 | Tech Stack             |
 |-------------|-----------------------------------------------------------------------------|------------------------|
-| **HADA**    | Smart platform for contact center agents. Includes payment, license, and internal services. | C#, ASP.NET, SQL       |
-| **Mini Games Library** | Retro games like Snake, Pacman and Tic Tac Toe with simulated license system. | JavaScript, Web Forms |
 | **Coming Soon** | Personal project from scratch (stay tuned!)                              | -                      |
 
 ---
@@ -58,5 +51,4 @@
 
 ---
 
-> “Creativity is intelligence having fun.” – Albert Einstein
 
